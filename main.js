@@ -1,6 +1,7 @@
 // CodeWars_Solution
 
-https://www.codewars.com/kata/57a60bad72292d3e93000a5a/train/javascript
+//Link to task
+//https://www.codewars.com/kata/57a60bad72292d3e93000a5a/train/javascript
 
 function toAcronym(inp){
   return inp.split(' ') // str to array 'Code wars' to ['Code', 'wars']
